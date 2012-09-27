@@ -6,7 +6,9 @@
   Date:      $Date: 5/29/2012$
   Version:   $Revision: $
 
-  Copyright (c) Insight Software Consortium. All rights reserved.
+  Copyright (c) Atsushi Yamada, PhD, Surgical Navigation and Robotics Lab, 
+  Brigham and Women's Hospital and Harvard Medical School. 
+  All rights reserved.
 
   This software is distributed WITHOUT ANY WARRANTY; without even
   the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
